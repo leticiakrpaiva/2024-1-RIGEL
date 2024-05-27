@@ -1,8 +1,8 @@
-<!-- Adiciona distintivos (shields) do GitHub -->
+<!-- Adiciona distintivos (shields) do GitHub 
 ![GitHub repo size](https://img.shields.io/github/repo-size/FGA0138-MDS-Ajax/2024-1-RIGEL?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/FGA0138-MDS-Ajax/2024-1-RIGEL?style=for-the-badge)
 ![GitHub views](https://komarev.com/ghpvc/?username=FGA0138-MDS-Ajax&repo=2024-1-RIGEL&color=blueviolet&style=for-the-badge&label=Views)
-
+-->
 <!-- Título centralizado -->
 <div align="center">
   <h2>Bem-vindo ao nosso repositório! </h2>
@@ -10,7 +10,7 @@
 
 <!-- Título centralizado -->
 <div align="center">
-  <h3>🗄️ DriverPlan</h3><h1>by Rigel</h1> 
+  <h1>🗄️ DriverPlan<h4>by Rigel</h4> </h1>
 </div> 
 
 <!-- Título centralizado -->
@@ -18,7 +18,7 @@
   <h2>🎯 Objetivo </h2>
 </div> 
 
-    O DiverPlan surgiu com o intuito de otimizar e facilitar o gerenciamento de viagens de motoristas privados, de tal modo que não seja necessário utilizar multiplas ferramentas ou adaptações de outros softwares não especializados. Nesse sentido, diferentemente de aplicativos de motoristas, como: Uber, 99 e InDriver; o DriverPlan foca em atender um grupo de motoristas que funcionam em regime próprio de agendamento, viabilizando seus respectivos modelos de viagem e cronogramas. Ou seja, cada motorista possui seu próprio acervo de clientes, definem seus modelos de serviços e estipulam suas taxas e valores de serviço. Portanto, ao automatizar e acelerar muitos dos processos que demandam uso de multiplas ferramentas, o motorista consegue retornar um serviço de maior qualidade e padronização para sseus passageiros, evitando que erros sejam cometidos no processo e a insatisfação se faça presente.
+• O DiverPlan surgiu com o intuito de otimizar e facilitar o gerenciamento de viagens de motoristas privados, de tal modo que não seja necessário utilizar multiplas ferramentas ou adaptações de outros softwares não especializados. Nesse sentido, diferentemente de aplicativos de motoristas, como: Uber, 99 e InDriver; o DriverPlan foca em atender um grupo de motoristas que funcionam em regime próprio de agendamento, viabilizando seus respectivos modelos de viagem e cronogramas. Ou seja, cada motorista possui seu próprio acervo de clientes, definem seus modelos de serviços e estipulam suas taxas e valores de serviço. Portanto, ao automatizar e acelerar muitos dos processos que demandam uso de multiplas ferramentas, o motorista consegue retornar um serviço de maior qualidade e padronização para sseus passageiros, evitando que erros sejam cometidos no processo e a insatisfação se faça presente.
 
 <!-- Título centralizado -->
 <div align="center">
@@ -178,9 +178,6 @@ ESTE SOFTWARE ESTÁ SOB LICENÇA: [MIT](https://github.com/nhn/tui.editor/blob/m
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
