@@ -10,7 +10,7 @@
 
 <!-- Título centralizado -->
 <div align="center">
-  <h1>🗄️ DriverPlan <sub>by Rigel</sub></h1>
+  <h1>🗄️ DriverPlan <sub style="font-size:14px;">by Rigel</sub></h1>
 </div>
 
 <!-- Título centralizado -->
