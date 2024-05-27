@@ -10,12 +10,7 @@
 
 <!-- Título centralizado -->
 <div align="center">
-    <table>
-        <tr>
-            <td><h1>🗄️ DriverPlan</h1></td>
-            <td><h4>by Rigel</h4></td>
-        </tr>
-    </table>
+  <h1>🗄️ DriverPlan <small>by Rigel</small> </h1>
 </div> 
 
 <!-- Título centralizado -->
