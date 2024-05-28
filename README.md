@@ -109,10 +109,10 @@ git clone https://github.com/FGA0138-MDS-Ajax/2024-1-RIGEL.git
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MVConsorte">
-        <img src="https://avatars.githubusercontent.com/u/108163301?v=4" width="100px;" alt="Foto de Mateus Villela no GitHub"/><br>
+      <a href="https://github.com/1harz">
+        <img src="https://avatars.githubusercontent.com/u/132016342?v=4" width="100px;" alt="Foto de Raul Fragoso no GitHub"/><br>
         <sub>
-          <b>Mateus Villela</b>
+          <b>Raul Fragoso</b>
         </sub>
       </a>
     </td>
