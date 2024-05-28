@@ -110,7 +110,7 @@ git clone https://github.com/FGA0138-MDS-Ajax/2024-1-RIGEL.git
     </td>
     <td align="center">
       <a href="https://github.com/1harz">
-        <img src="github.com/1harz.png" width="100px;" alt="Foto de Raul Fragoso no GitHub"/><br>
+        <img src="avatars.githubusercontent.com/u/132016342?v=4" width="100px;" alt="Foto de Raul Fragoso no GitHub"/><br>
         <sub>
           <b>Raul Fragoso</b>
         </sub>
