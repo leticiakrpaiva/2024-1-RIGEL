@@ -144,7 +144,7 @@ git clone https://github.com/FGA0138-MDS-Ajax/2024-1-RIGEL.git
       <a href="https://github.com/MatielloAL">
         <img src="https://avatars.githubusercontent.com/u/120605445?s=400&u=85ac547ee32be2ebd74027cdc8f7e483dc6b0a8e&v=4" width="100px;" alt="Foto de Marcelo de Araujo no GitHub"/><br>
         <sub>
-          <b>Marcelo de Araujo Lopes</b>
+          <b>Marcelo de Araujo</b>
         </sub>
       </a>
     </td>
