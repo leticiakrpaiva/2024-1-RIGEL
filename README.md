@@ -128,7 +128,7 @@ git clone https://github.com/FGA0138-MDS-Ajax/2024-1-RIGEL.git
       <a href="https://github.com/Karolina91">
         <img src="https://avatars.githubusercontent.com/u/84090707?v=4" width="100px;" alt="Foto de Karolina Vieira no GitHub"/><br>
         <sub>
-          <b>Mateus Villela</b>
+          <b>Karolina Vieira</b>
         </sub>
       </a>
     </td>
