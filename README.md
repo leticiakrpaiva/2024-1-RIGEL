@@ -125,8 +125,8 @@ git clone https://github.com/FGA0138-MDS-Ajax/2024-1-RIGEL.git
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MVConsorte">
-        <img src="https://avatars.githubusercontent.com/u/108163301?v=4" width="100px;" alt="Foto de Mateus Villela no GitHub"/><br>
+      <a href="https://github.com/Karolina91">
+        <img src="https://avatars.githubusercontent.com/u/84090707?v=4" width="100px;" alt="Foto de Karolina Vieira no GitHub"/><br>
         <sub>
           <b>Mateus Villela</b>
         </sub>
