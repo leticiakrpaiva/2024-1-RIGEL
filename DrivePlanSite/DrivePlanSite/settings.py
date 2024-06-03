@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'driverplan.urls'
+ROOT_URLCONF = 'DrivePlanSite.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'driverplan.wsgi.application'
+WSGI_APPLICATION = 'DrivePlanSite.wsgi.application'
 
 
 # Database
