@@ -82,12 +82,12 @@ WSGI_APPLICATION = 'driverplan.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'driverplan_db',
-        'USER': 'admin',
-        'PASSWORD': 'kYDTjmsG8b2D8t1jycIhFZkjPBKYlpTw',
-        'HOST': 'dpg-cpjii2acn0vc73ampkg0-a.oregon-postgres.render.com',
-        'PORT': '5432',
+        'ENGINE': os.getenv('DB_ENGINE', 'change-me'),
+        'NAME': os.getenv('POSTGRES_DB', 'change-me'),
+        'USER': os.getenv('POSTGRES_USER', 'change-me'),
+        'PASSWORD': os.getenv('POSTGRES_PASSWORD', 'change-me'),
+        'HOST': os.getenv('POSTGRES_HOST', 'change-me'),
+        'PORT': os.getenv('POSTGRES_PORT', 'change-me'),
     }
 }
 
