@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'driverplan.urls'
+ROOT_URLCONF = 'DrivePlanSite.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'driverplan.wsgi.application'
+WSGI_APPLICATION = 'DrivePlanSite.wsgi.application'
 
 
 # Database
@@ -76,8 +76,12 @@ WSGI_APPLICATION = 'driverplan.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'driverplan_db',
+        'USER': 'admin',
+        'PASSWORD': 'kYDTjmsG8b2D8t1jycIhFZkjPBKYlpTw',
+        'HOST': 'dpg-cpjii2acn0vc73ampkg0-a.oregon-postgres.render.com',
+        'PORT': '5432',
     }
 }
 

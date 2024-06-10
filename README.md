@@ -118,7 +118,7 @@ git clone https://github.com/FGA0138-MDS-Ajax/2024-1-RIGEL.git
     </td>
     <td align="center">
       <a href="https://github.com/SamuelAfonso">
-        <img src="https://avatars.githubusercontent.com/u/108163301?v=4" width="100px;" alt="Foto de Mateus Villela no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/106821260?v=4" width="100px;" alt="Foto de Samuel Afonso no GitHub"/><br>
         <sub>
           <b>Samuel Afonso</b>
         </sub>
@@ -133,18 +133,18 @@ git clone https://github.com/FGA0138-MDS-Ajax/2024-1-RIGEL.git
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MVConsorte">
-        <img src="https://avatars.githubusercontent.com/u/108163301?v=4" width="100px;" alt="Foto de Mateus Villela no GitHub"/><br>
+      <a href="https://github.com/arthurfonsecaa">
+        <img src="https://avatars.githubusercontent.com/u/169956243?v=4" width="100px;" alt="Foto de Arthur Fonseca no GitHub"/><br>
         <sub>
-          <b>Mateus Villela</b>
+          <b>Arthur Fonseca</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MVConsorte">
-        <img src="https://avatars.githubusercontent.com/u/108163301?v=4" width="100px;" alt="Foto de Mateus Villela no GitHub"/><br>
+      <a href="https://github.com/MatielloAL">
+        <img src="https://avatars.githubusercontent.com/u/120605445?s=400&u=85ac547ee32be2ebd74027cdc8f7e483dc6b0a8e&v=4" width="100px;" alt="Foto de Marcelo de Araujo no GitHub"/><br>
         <sub>
-          <b>Mateus Villela</b>
+          <b>Marcelo de Araujo</b>
         </sub>
       </a>
     </td>
