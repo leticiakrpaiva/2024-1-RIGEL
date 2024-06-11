@@ -16,7 +16,7 @@ ENV PYTHONUNBUFFERED 1
 
 # Copia a pasta "driverplan" e "scripts" para dentro do container
 COPY driverplan /driverplan
-COPY scripts /scripts
+COPY scripts /scripts  
 # COPY driverplan/manage.py /app
 # COPY driverplan/requirements.txt /app
 # COPY driverplan/driverplan /app/driverplan
