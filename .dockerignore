@@ -9,6 +9,9 @@ __pycache__
 *.sqlite3
 *.sqlite
 
+# Volumes
+data
+
 # Diretórios do Django
 driverplan/media
 driverplan/static
