@@ -148,10 +148,9 @@ git clone https://github.com/FGA0138-MDS-Ajax/2024-1-RIGEL.git
         </sub>
       </a>
     </td>
-
-       <td align="center">
+    <td align="center">
       <a href="https://github.com/Pabloserrapxx">
-        <img src="[https://avatars.githubusercontent.com/u/120605445?s=400&u=85ac547ee32be2ebd74027cdc8f7e483dc6b0a8e&v=4](https://avatars.githubusercontent.com/u/164106433?v=4)" width="100px;" alt="Foto de Pablo Serra Carrvalho"/><br>
+        <img src="https://avatars.githubusercontent.com/u/164106433?v=4" width="100px;" alt="Foto de Pablo Serra Carrvalho"/><br>
         <sub>
           <b>Pablo Serra Carvalho</b>
         </sub>
